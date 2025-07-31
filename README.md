@@ -36,10 +36,9 @@ To run this project, follow these steps:
 1.  **Prerequisites:** Ensure you have Python and pip installed on your system.
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepositoryName].git
-    cd [YourRepositoryName]
+    git clone [https://github.com/](https://github.com/shariatamin/pcs_102303315.git)
+    cd pcs_102303315
     ```
-    *Note: Replace `[YourUsername]` and `[YourRepositoryName]` with your actual GitHub username and repository name.*
 3.  **Install Dependencies:**
     ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn torch torch-geometric
