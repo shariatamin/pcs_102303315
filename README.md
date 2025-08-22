@@ -8,8 +8,8 @@ This project develops a fake news detection system based on headline text, compa
 
 This repository contains the core files for the project:
 
-- `main_notebook.ipynb`: The main Jupyter Notebook file containing all the project code, from data preprocessing to model training and evaluation.
-- `your_dataset.csv`: The dataset used in this project.
+- `102303315_PCS.ipynb`: The main Jupyter Notebook file containing all the project code, from data preprocessing to model training and evaluation.
+- `102303315_PCS.csv`: The dataset used in this project.
 - `README.md`: This file, which provides an overview of the project and instructions for running the code.
 
 ### Dataset
@@ -44,7 +44,7 @@ To run this project, follow these steps:
     pip install pandas numpy scikit-learn matplotlib seaborn torch torch-geometric
     ```
     *Note: `torch` and `torch-geometric` are required for GNN models. You may need to follow specific installation instructions for your operating system.*
-4.  **Run the Notebook:** Open the `main_notebook.ipynb` file using Jupyter Notebook or Jupyter Lab and run all the cells.
+4.  **Run the Notebook:** Open the `102303315_PCS.ipynb` file using Jupyter Notebook or Jupyter Lab and run all the cells.
     ```bash
     jupyter notebook
     ```
